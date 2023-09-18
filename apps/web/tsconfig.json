@@ -23,5 +23,6 @@
     "compilerOptions": {
       "module": "commonjs"
     }
-  }
+  },
+  "resolveJsonModule": true,
 }
